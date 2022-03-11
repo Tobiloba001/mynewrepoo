@@ -1,5 +1,5 @@
-function multi(a,b) {
-	return a * b;
+function multi(num) {
+  return x * 3;
 }
-
-multi(2,3)
+var x = 2;
+multi(x);
